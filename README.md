@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/nqzG8ae.png" width="100%" alt="Banner Johan Rivera Capsule Corp Style">
+  <img src="https://raw.githubusercontent.com/JARV005/JARV005/main/assets/banner-capsulecorp-dark.png" width="100%" alt="Banner Johan Rivera Capsule Corp Style">
 </p>
 
 <h1 align="center">🚀 Johan Alexander Rivera Vásquez</h1>
@@ -14,11 +14,11 @@
 Soy un desarrollador motivado y orientado a los detalles, con una sólida base en **desarrollo web y software** usando **HTML, CSS, JavaScript, Python y ASP.NET con C#**.  
 Me apasiona la automatización, la eficiencia y crear soluciones que combinen **tecnología y creatividad**.
 
-- 💻 Experiencia con **C#, ASP.NET, Vue.js, Docker y WordPress**
-- 🧩 Trabajo con **MySQL, PostgreSQL y MongoDB**
-- 🔄 Automatización de procesos con **n8n**
-- 🚀 Despliegue en **Render y Netlify**
-- 🧠 En constante aprendizaje sobre **IA, Machine Learning y Blockchain**
+- 💻 Experiencia con **C#, ASP.NET, Vue.js, Docker y WordPress**  
+- 🧩 Trabajo con **MySQL, PostgreSQL y MongoDB**  
+- 🔄 Automatización de procesos con **n8n**  
+- 🚀 Despliegue en **Render y Netlify**  
+- 🧠 Interesado en **IA, Machine Learning y Blockchain**  
 
 ---
 
@@ -34,10 +34,10 @@ Me apasiona la automatización, la eficiencia y crear soluciones que combinen **
 #### 🔹 AutoSpace – Sistema de gestión de parqueaderos
 Plataforma web para **control, suscripción y registro de vehículos**, con arquitectura modular y despliegue completo.  
 🔗 **Demo:** [https://autospace-frontend.netlify.app/](https://autospace-frontend.netlify.app/)  
-🧠 **Stack:** C#, ASP.NET, EF Core, Vue.js, Pinia, Axios, Vite, Render, Netlify
+🧠 **Stack:** C#, ASP.NET, EF Core, Vue.js, Pinia, Axios, Vite, Render, Netlify  
 
 <p align="center">
-  <img src="https://i.imgur.com/XWqU7wY.png" width="70%" alt="AutoSpace Project Preview">
+  <img src="https://raw.githubusercontent.com/JARV005/JARV005/main/assets/autospace-preview.png" width="70%" alt="AutoSpace Project Preview">
 </p>
 
 ---
@@ -61,7 +61,7 @@ Prototipo robótico diseñado para **detectar vida humana en entornos de incendi
 > “El poder de un desarrollador está en su curiosidad infinita.”
 
 <p align="center">
-  <img src="https://i.imgur.com/3Nxd3vQ.png" width="120" alt="Capsule Corp Logo">
+  <img src="https://raw.githubusercontent.com/JARV005/JARV005/main/assets/capsulecorp-logo.png" width="100" alt="Capsule Corp Logo">
 </p>
 
 ---
