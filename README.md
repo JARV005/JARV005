@@ -14,10 +14,11 @@
 Soy un desarrollador motivado y orientado a los detalles, con una sólida base en **desarrollo web y software** usando **HTML, CSS, JavaScript, Python y ASP.NET con C#**.  
 Me apasiona la automatización, la eficiencia y crear soluciones que combinen **tecnología y creatividad**.
 
-- 💻 Experiencia con **C#, ASP.NET, Vue.js, Docker y WordPress**  
-- 🧩 Trabajo con **MySQL, PostgreSQL y MongoDB**  
+- 💻  Backend: **C#, ASP.NET, Python** /  Frontend: **HTML5, CSS3 (Bootstrap), JavaScript, VueJS, Vite**
+- 🧩  DevOps: **Docker, Docker Compose, Nginx, Prometheus, Grafana**
 - 🔄 Automatización de procesos con **n8n**  
-- 🚀 Despliegue en **Render y Netlify**  
+- 🚀 Despliegue en **Render, Netlify, VPS**
+- 🛢  Base de datos: **MySQL, MongoDB, JSON Server, PostgreSQL**  
 - 🧠 Interesado en **IA, Machine Learning y Blockchain**  
 
 ---
