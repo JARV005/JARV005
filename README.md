@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JARV005/JARV005/main/assets/Banner.jpg" width="100%" alt="Banner Johan Rivera Capsule Corp Style">
+  <img src="assets/Banner.png" width="100%" alt="Banner Johan Rivera Capsule Corp Style">
 </p>
 
 <h1 align="center">🚀 Johan Alexander Rivera Vásquez</h1>
