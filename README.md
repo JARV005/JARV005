@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/Banner.png" />
+<img src="assets/Banner.jpg" />
 
 </div>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JARV005&color=FFD700&style=flat-square&label=profile+views)](https://github.com/JARV005)
+[![Profile Views](https://komarev.com/ghpvc/?username=JARV005&color=FFD700&style=flat-square&label=visitas)](https://github.com/JARV005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-johan--rivera--dev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-rivera-dev)
 
 </div>
@@ -14,21 +14,23 @@
 ---
 
 ```yaml
-name:       Johan Rivera
-handle:     JARV005
-role:       Backend Developer / Tech Lead
-focus:      Clean Architecture · REST APIs · AI Integration
-location:   Colombia
-status:     Always training
+nombre:     Johan Rivera
+usuario:    JARV005
+rol:        Backend Developer / Tech Lead
+enfoque:    Arquitectura limpia · APIs REST · IA aplicada
+ubicación:  Colombia
+estado:     Siempre entrenando
 ```
 
-Engineer focused on **robust backends**, **layered architecture**, and **technical leadership**. I build enterprise systems, high-impact REST APIs, and developer teams. Currently integrating AI agents and automation into real-world solutions.
+Ingeniero de Software enfocado en **backends robustos**, **arquitectura por capas** y **liderazgo técnico**. Construyo sistemas empresariales, APIs REST de alto impacto y equipos de desarrollo. Actualmente integrando agentes de IA y automatización en soluciones reales.
 
-> *"Magic is not given. It is forged through relentless work."*
+> *"El poder no se hereda. Se forja con trabajo, constancia y cada línea de código que escribes."*
 
 ---
 
-## Core Stack
+## ⚔️ Grimorio Técnico
+
+> *Todo grimorio refleja la naturaleza de su portador. Este es el mío.*
 
 **Backend**
 
@@ -48,7 +50,7 @@ Engineer focused on **robust backends**, **layered architecture**, and **technic
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 
-**Databases**
+**Bases de Datos**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -61,26 +63,26 @@ Engineer focused on **robust backends**, **layered architecture**, and **technic
 ![Azure](https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/Amazon_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
 
-**Architecture & Design**
+**Arquitectura & Diseño**
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555?style=flat-square&logoColor=white)
 ![DDD](https://img.shields.io/badge/Domain_Driven_Design-555?style=flat-square&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-555?style=flat-square&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**AI & Automation**
+**IA & Automatización**
 
 ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Agents-333?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/Agentes_MCP-333?style=flat-square&logoColor=white)
 
 ---
 
-## Stats
+## 💥 Nivel de Poder
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JARV005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=333&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JARV005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=333"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JARV005&layout=compact&langs_count=8&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=333"/>
 
@@ -94,28 +96,28 @@ Engineer focused on **robust backends**, **layered architecture**, and **technic
 
 ---
 
-## Roles
+## 🏅 Rango de Caballero Mágico
 
 ```
-Backend Developer     ████████████████████  Production-ready APIs & services
-Full Stack            ███████████████░░░░░  End-to-end feature delivery
-Technical Lead        ████████████████░░░░  Team direction & code standards
-Software Architect    ████████████░░░░░░░░  System design & layer patterns
-AI Integration        ████████░░░░░░░░░░░░  Agents, LLMs & automation
+Backend Developer     ████████████████████  APIs y servicios listos para producción
+Full Stack            ███████████████░░░░░  Entrega de features de extremo a extremo
+Technical Lead        ████████████████░░░░  Dirección técnica y estándares de código
+Software Architect    ████████████░░░░░░░░  Diseño de sistemas y patrones de capas
+IA & Automatización   ████████░░░░░░░░░░░░  Agentes, LLMs y pipelines automatizados
 ```
 
 ---
 
-## Currently Working On
+## 📖 Saga actual
 
-- Backend systems with .NET 8 and Node.js layered architecture
-- AI automation pipelines using agents and MCP integrations
-- Technical curriculum design for developer training programs
-- Cloud deployment workflows on Azure with Docker and Kubernetes
+- 🏗️ Sistemas backend con .NET 8 y arquitectura por capas en Node.js
+- 🤖 Pipelines de automatización con agentes de IA e integraciones MCP
+- 📚 Diseño de curricula técnica para programas de formación de developers
+- ☁️ Despliegues en Azure con Docker y Kubernetes
 
 ---
 
-## Toolbelt
+## 🛠️ Arsenal
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -130,6 +132,6 @@ AI Integration        ████████░░░░░░░░░░░�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
 
-*"Power is not something you are born with. It is something you build, line by line."*
+*"No importa si no tienes poder innato. Lo que importa es que nunca dejes de superarte."*
 
 </div>
