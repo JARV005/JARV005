@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="assets/Banner.png" />
+<img src="assets/Banner.jpg" />
 
 </div>
 
 <div align="center">
 
-### Hola 👋 Soy Johan Rivera, Backend Developer de Colombia
+### Hi there 👋 I'm Johan Rivera, Backend Developer from Colombia
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JARV005&color=FFD700&style=flat-square&label=visitas+al+perfil)](https://github.com/JARV005)
+[![Profile Views](https://komarev.com/ghpvc/?username=JARV005&color=FFD700&style=flat-square&label=profile+views)](https://github.com/JARV005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-johan--rivera--dev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-rivera-dev)
 
 </div>
 
 ---
 
-<img align="right" width="36%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2a3Nib3R6ZnU3OWh4OTF3a2E5OHE3NXE3bDQ3ZDJsNmt1c2dhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5fMI9ftgQiGzoZoB9/giphy.gif" title="Goku training — always leveling up" />
+<img align="right" width="36%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt3azRuNWo5cWJ5eWJrMW1zaWR4OWYyZ3FoaHQyc2NmdTk4aGtsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13mfssn73An6De/giphy.gif" title="Goku training — always leveling up" />
 
-**Sobre mí**
+**About me**
 
-- 🏗️ Construyo backends con **.NET 8** y **Node.js**
-- 🤖 Explorando integración de **Agentes IA y MCPs**
-- 👥 Busco colaborar en **arquitectura limpia y automatización**
-- 📚 Diseño curricula técnica para programas de formación de devs
-- 💬 Pregúntame sobre **ASP.NET Core, arquitectura por capas, REST APIs**
+- 🏗️ Building backends with **.NET 8** and **Node.js**
+- 🤖 Exploring **AI Agents and MCP integrations**
+- 👥 Looking to collaborate on **clean architecture and automation**
+- 📚 Designing technical curricula for developer training programs
+- 💬 Ask me about **ASP.NET Core, layered architecture, REST APIs**
 - 🌍 Colombia 🇨🇴
 
 <br clear="right"/>
@@ -48,9 +48,9 @@
 
 ---
 
-### ⚔️ Grimorio Técnico
+### ⚔️ Magic Grimoire
 
-> *Todo grimorio refleja a su portador. Cada tecnología, una habilidad forjada.*
+> *Every grimoire reflects its wielder. Every skill here was forged, not given.*
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 
-**Bases de Datos**
+**Databases**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -87,7 +87,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Arquitectura & IA**
+**Architecture & AI**
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555?style=flat-square)
 ![DDD](https://img.shields.io/badge/DDD-555?style=flat-square)
@@ -100,19 +100,19 @@
 
 ---
 
-### 🏅 Rango de Caballero Mágico
+### 🏅 Magic Knight Rank
 
 ```
-Backend Developer     ████████████████████  .NET · Node.js · APIs REST
+Backend Developer     ████████████████████  .NET · Node.js · REST APIs
 Full Stack            ███████████████░░░░░  Angular · React · Vue
-Technical Lead        ████████████████░░░░  Mentoría · Code Review · Arquitectura
+Technical Lead        ████████████████░░░░  Mentoring · Code Review · Architecture
 Software Architect    ████████████░░░░░░░░  Clean Arch · DDD · SOLID
-IA & Automatización   ████████░░░░░░░░░░░░  Agentes · LLMs · MCPs
+AI & Automation       ████████░░░░░░░░░░░░  Agents · LLMs · MCPs
 ```
 
 ---
 
-### 📡 Actividad
+### 📡 Activity
 
 <div align="center">
 
@@ -122,11 +122,11 @@ IA & Automatización   ████████░░░░░░░░░░░
 
 ---
 
-### 📬 Contacto
+### 📬 Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-rivera-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-rivera-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-JARV005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JARV005)
 
 </div>
@@ -137,6 +137,6 @@ IA & Automatización   ████████░░░░░░░░░░░
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
 
-*"No importa si no tienes poder innato. Lo que importa es que nunca dejes de superarte."*
+*"It doesn't matter if you weren't born with power. What matters is that you never stop pushing past your limits."*
 
 </div>
