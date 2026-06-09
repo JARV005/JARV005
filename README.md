@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" width="36%" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" title="Goku training — always leveling up" />
+<img align="right" width="36%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2a3Nib3R6ZnU3OWh4OTF3a2E5OHE3NXE3bDQ3ZDJsNmt1c2dhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5fMI9ftgQiGzoZoB9/giphy.gif" title="Goku training — always leveling up" />
 
 **Sobre mí**
 
