@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=Johan%20Rivera&fontSize=55&fontColor=FFD700&animation=twinkling&fontAlignY=42&desc=Backend%20Developer%20%7C%20Tech%20Lead%20%7C%20Software%20Architect&descAlignY=65&descColor=AAAAAA" />
+<img src="assets/Banner.jpg" />
 
 </div>
 
