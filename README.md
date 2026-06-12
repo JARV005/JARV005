@@ -19,7 +19,7 @@
 
 **About me**
 
-- 🏗️ Building backends with **.NET 8** and **Node.js**
+- 🏗️ Building backends with **.NET** and **Node.js**
 - 🤖 Exploring **AI Agents and MCP integrations**
 - 👥 Looking to collaborate on **clean architecture and automation**
 - 📚 Designing technical curricula for developer training programs
