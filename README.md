@@ -1,56 +1,58 @@
 <div align="center">
 
-<img src="assets/BannerGoku.png" />
+<img src="assets/BannerGoku.png" width="100%" alt="Johan Rivera banner" />
 
 </div>
 
 <div align="center">
-
-### Hi there 👋 I'm Johan Rivera, Backend Developer from Colombia
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JARV005&color=FFD700&style=flat-square&label=profile+views)](https://github.com/JARV005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-johan--rivera--dev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-rivera-dev)
 
 </div>
 
+<div align="center">
+
+<a href="https://github.com/JARV005">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1500&color=FFD700&background=00000000&center=true&vCenter=true&width=650&lines=Backend+Developer;Tech+Lead;Building+an+AI-powered+SaaS;Teaching+the+next+generation;Launching+my+freelance+saga" alt="Typing SVG" />
+</a>
+
+</div>
+
 ---
 
-<img align="right" width="36%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt3azRuNWo5cWJ5eWJrMW1zaWR4OWYyZ3FoaHQyc2NmdTk4aGtsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13mfssn73An6De/giphy.gif" title="Goku training — always leveling up" />
+<img align="right" width="36%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt3azRuNWo5cWJ5eWJrMW1zaWR4OWYyZ3FoaHQyc2NmdTk4aGtsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13mfssn73An6De/giphy.gif" title="Always leveling up" />
 
-**About me**
+### 👋 About me
 
-- 🏗️ Building backends with **.NET** and **Node.js**
-- 🤖 Exploring **AI Agents and MCP integrations**
-- 👥 Looking to collaborate on **clean architecture and automation**
-- 📚 Designing technical curricula for developer training programs
-- 💬 Ask me about **ASP.NET Core, layered architecture, REST APIs**
-- 🌍 Colombia 🇨🇴
+I'm Johan — a **Backend Developer & Tech Lead** from Colombia 🇨🇴, currently running three arcs at once: a full-time backend role, teaching the next generation of Node.js developers, and building my own AI-powered SaaS while launching a freelance career. I like clean architecture, automation, and direct feedback — results earned, not given.
+
+| | |
+|---|---|
+| 📍 **Location** | Colombia 🇨🇴 |
+| 💼 **Role** | Backend Developer & Tech Lead |
+| 🥋 **Specialty** | Node.js & .NET Core backends, clean architecture |
+| 🔭 **Currently** | Full-time job + teaching + building my SaaS + going freelance |
+| 🎯 **90-day quest** | Land my first freelance client |
 
 <br clear="right"/>
 
 ---
 
-### 📊 Stats
+### 🌀 Current Saga
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JARV005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=2a2a2a"/>
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JARV005&layout=compact&langs_count=6&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=2a2a2a"/>
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JARV005&theme=radical&background=0D0D0D&border=2a2a2a&ring=FFD700&fire=FF6B00&currStreakLabel=FFD700&sideLabels=AAAAAA&dates=888888)
-
-</div>
+| Arc | Focus | Status |
+|---|---|---|
+| 💼 Full-Time Role | Backend Developer & Tech Lead | Active |
+| 📚 Clases-Nakamoto | Teaching Node.js to the next generation | Live cohort |
+| 🤖 AI-Powered SaaS | Document analysis platform | Building |
+| 🚀 Freelance Launch | Upwork · Workana · LinkedIn | First clients incoming |
 
 ---
 
-### ⚔️ Magic Grimoire
+### ⚔️ Battle Arsenal
 
-> *Every grimoire reflects its wielder. Every skill here was forged, not given.*
+> *Every fighter has a stack. Every stack here was forged, not given.*
 
 <div align="center">
 
@@ -100,15 +102,37 @@
 
 ---
 
-### 🏅 Magic Knight Rank
+<details>
+<summary>📟 <b>Scan power level</b> (click to read the scouter)</summary>
+<br>
 
-```
-Backend Developer     ████████████████████  .NET · Node.js · REST APIs
-Full Stack            ███████████████░░░░░  Angular · React · Vue
-Technical Lead        ████████████████░░░░  Mentoring · Code Review · Architecture
-Software Architect    ████████████░░░░░░░░  Clean Arch · DDD · SOLID
-AI & Automation       ████████░░░░░░░░░░░░  Agents · LLMs · MCPs
-```
+| Technique | Power Level | |
+|---|---|---|
+| 🥋 Node.js / Express | `█████████░` | 9,001 — it's over 9000! |
+| ⚡ C# / .NET Core | `████████░░` | High |
+| 🌐 Angular · React · Vue | `███████░░░` | Solid |
+| 🛢️ SQL Server / PostgreSQL | `████████░░` | High |
+| 🐳 Docker / Kubernetes | `██████░░░░` | Growing |
+| ☁️ Azure / AWS | `██████░░░░` | Growing |
+| 🤖 AI / ML & Agents | `█████░░░░░` | Training arc 📈 |
+
+</details>
+
+---
+
+### 🏆 Trophy Room
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JARV005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=2a2a2a"/>
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JARV005&layout=compact&langs_count=6&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=2a2a2a"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=JARV005&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JARV005&theme=radical&background=0D0D0D&border=2a2a2a&ring=FFD700&fire=FF6B00&currStreakLabel=FFD700&sideLabels=AAAAAA&dates=888888)
+
+</div>
 
 ---
 
@@ -119,6 +143,29 @@ AI & Automation       ████████░░░░░░░░░░░�
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JARV005&theme=react-dark&bg_color=0D0D0D&color=FFD700&line=FFD700&point=FF6B00&area=true&hide_border=true)](https://github.com/JARV005)
 
 </div>
+
+---
+
+### 📌 Featured Quest
+
+<div align="center">
+
+[![Clases-Nakamoto](https://github-readme-stats.vercel.app/api/pin/?username=JARV005&repo=Clases-Nakamoto&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=2a2a2a)](https://github.com/JARV005/Clases-Nakamoto)
+
+</div>
+
+> *Swap the repo name above for whichever project you most want pinned — the card pulls live from whatever's in `?repo=`.*
+
+---
+
+### 🧘 Outside the Code
+
+| | |
+|---|---|
+| 🏋️ Afternoon training | Gym, every day |
+| 🙏 Daily ritual | Devotionals |
+| 📺 Currently rewatching | Dragon Ball · Black Clover |
+| 🎯 Current goal | Land my first freelance client |
 
 ---
 
