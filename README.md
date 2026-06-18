@@ -158,16 +158,6 @@ I'm Johan — a **Backend Developer & Tech Lead** from Colombia 🇨🇴, curren
 
 ---
 
-### 🧘 Outside the Code
-
-| | |
-|---|---|
-| 🏋️ Afternoon training | Gym, every day |
-| 🙏 Daily ritual | Devotionals |
-| 📺 Currently rewatching | Dragon Ball · Black Clover |
-| 🎯 Current goal | Land my first freelance client |
-
----
 
 ### 📬 Contact
 
