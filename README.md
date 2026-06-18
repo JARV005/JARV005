@@ -39,17 +39,6 @@ I'm Johan — a **Backend Developer & Tech Lead** from Colombia 🇨🇴, curren
 
 ---
 
-### 🌀 Current Saga
-
-| Arc | Focus | Status |
-|---|---|---|
-| 💼 Full-Time Role | Backend Developer & Tech Lead | Active |
-| 📚 Clases-Nakamoto | Teaching Node.js to the next generation | Live cohort |
-| 🤖 AI-Powered SaaS | Document analysis platform | Building |
-| 🚀 Freelance Launch | Upwork · Workana · LinkedIn | First clients incoming |
-
----
-
 ### ⚔️ Battle Arsenal
 
 > *Every fighter has a stack. Every stack here was forged, not given.*
