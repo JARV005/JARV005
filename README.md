@@ -146,20 +146,20 @@ Right now I'm running three arcs at once: a full-time backend role, teaching the
 
 <!-- Cambia "repo=" por los repositorios que quieras destacar -->
 <a href="https://jarv005.github.io/Portafolio/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JARV005&repo=Portafolio&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=2a2a2a" alt="Portafolio" />
+  <img src="assets/LogoPortafoio.png" alt="Portafolio" />
 </a>
 
 </div>
 
 <div align="center">
-<img src="assets/LogoPortafoio.png" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:FFD700&height=4&section=header" width="100%" alt="" />
 </div>
 
 ## Contact
 
 <div align="center">
 
-<img src="assets/GohanChibi.gif" width="150" alt="" />
+<img src="assets/goku-gohan-page.gif" width="150" alt="" />
 
 <br>
 
