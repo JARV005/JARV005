@@ -152,7 +152,7 @@ Right now I'm running three arcs at once: a full-time backend role, teaching the
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:FFD700&height=4&section=header" width="100%" alt="" />
+<img src="assets/LogoPortafoio.png" alt="" />
 </div>
 
 ## Contact
