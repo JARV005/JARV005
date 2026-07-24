@@ -32,8 +32,6 @@ I'm Johan — a **Backend Developer & Tech Lead** from Colombia 🇨🇴, curren
 | 📍 **Location** | Colombia 🇨🇴 |
 | 💼 **Role** | Backend Developer & Tech Lead |
 | 🥋 **Specialty** | Node.js & .NET Core backends, clean architecture |
-| 🔭 **Currently** | Full-time job + teaching + building my SaaS + going freelance |
-| 🎯 **90-day quest** | Land my first freelance client |
 
 <br clear="right"/>
 
