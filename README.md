@@ -133,17 +133,6 @@ I'm Johan — a **Backend Developer & Tech Lead** from Colombia 🇨🇴, curren
 
 ---
 
-### 📌 Featured Quest
-
-<div align="center">
-
-[![Clases-Nakamoto](https://github-readme-stats.vercel.app/api/pin/?username=JARV005&repo=Clases-Nakamoto&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=2a2a2a)](https://github.com/JARV005/Clases-Nakamoto)
-
-</div>
-
-> *Swap the repo name above for whichever project you most want pinned — the card pulls live from whatever's in `?repo=`.*
-
----
 
 
 ### 📬 Contact
